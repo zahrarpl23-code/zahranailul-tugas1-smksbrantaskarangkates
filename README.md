@@ -24,8 +24,3 @@ Website ini menampilkan informasi pribadi, keterampilan yang sedang dipelajari, 
 
 ## Pembuat
 Zahra Nailul Aisyah
-
-## Preview
-Simpan screenshot desain ke folder images dengan nama profil-1.png, lalu tampilkan dengan Markdown:
-
-![Preview Profil Pribadi](images/profil-1.png)
